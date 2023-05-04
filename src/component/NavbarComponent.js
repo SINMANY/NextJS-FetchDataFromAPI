@@ -14,7 +14,7 @@ export default function NavbarComponent() {
                         <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
                             <li><Link href="/" class="nav-link px-2 text-white">Home</Link></li>
                             <li><Link href="/movie" class="nav-link px-2 text-white">Movies</Link></li>
-                            <li><Link href="/movieDetail" class="nav-link px-2 text-white">Movies Detail</Link></li>
+                            <li><Link href="/product" class="nav-link px-2 text-white">Product</Link></li>
                             <li><Link href="/about" class="nav-link px-2 text-white">About Us</Link></li>
                         </ul>
 
